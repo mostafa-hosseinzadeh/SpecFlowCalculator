@@ -9,7 +9,8 @@ namespace CalculatorCore
 
         public int Add()
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
+            return FirstNumber + SecondNumber;
         }
     }
 }
