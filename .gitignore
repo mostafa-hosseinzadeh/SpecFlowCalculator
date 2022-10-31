@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CalculatorCore/bin/Debug/net6.0
+/CalculatorCore/obj
+/SpecFlowCalculator.Specs/bin/Debug/net6.0
+/SpecFlowCalculator.Specs/obj
